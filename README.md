@@ -25,4 +25,17 @@ or a message if there were no pictures. But the fun part or the addition here wa
 Basically we used a third party module/library and used it in our program. It was a little head-scratchy
 momemt to work with that as the documenation for Menu's code was little vague but the end result was so
 good. We handled the errors too by learning the try-catch concept and of cource these two assignments
-helped in building some familiarity with conditionals and for loops in python.
+helped in building some familiarity with conditionals and for loops in python. This assignment helped us
+to learn about the functions in python as well. Pythonic way of doing stuff is really cool!!
+
+## Week_3
+
+Now as we have learned a little about coding. Got an brief overview of classes from the Menu class
+we worked with in previous assignment. So, now in this assignment we learned how to make our code
+understandable to use. I think, the course made us use **Menu's knowing the fact that their documentation sucks only because they might wanted us to know how we should document our code for others**. So, yup this
+assignment taught us how to document the code and how make the html or web version of the doc for other
+developers. So, the less use of "#" comments now and lean towards the docstrings!!
+In this assignment I did extra work, as always by talking about the parameters, returns and all which was
+not required as per assignment requirements.
+and I did documents the setters as well, although we do not need to do that. This was the one of easiest
+assignments till now, no head-scracthing for this one but loved doing it.
